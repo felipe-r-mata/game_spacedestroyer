@@ -1,4 +1,4 @@
-# Space Destroyer
+![Logo Space Destroyer](sprites/logo1.png)
 
 Jogo desenvolvido em Python utilizando Orientação a Objetos e a biblioteca Pygame
 
